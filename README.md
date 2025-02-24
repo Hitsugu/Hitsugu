@@ -1,4 +1,4 @@
-# Hi there, I'm Hitsugu! 👋
+# Hi there, I'm Hugo! 👋
 
 I'm a passionate software developer with a deep interest in artificial intelligence and cloud solutions. I thrive on exploring the latest innovations in technology to build smart, scalable, and efficient solutions. My work is driven by curiosity and a commitment to continuous learning, ensuring that I stay at the forefront of tech trends while delivering high-quality software.
 
